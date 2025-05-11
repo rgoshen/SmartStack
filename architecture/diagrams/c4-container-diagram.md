@@ -4,7 +4,7 @@
 **Type**: Container
 **Scope**: The SmartStack system internals
 **Primary Elements**: Applications, databases, and services within SmartStack
-**Intended Audienc**e: Technical stakeholders, developers, DevOps
+**Intended Audience**: Technical stakeholders, developers, DevOps
 **Last Updated**: 2025-01-12
 
 ## Purpose
@@ -124,4 +124,4 @@ graph TB
 - [ADR-005: AI Integration Architecture](../ADRs/ADR-005.md)
 - [ADR-007: Environment & Deployment Architecture](../ADRs/ADR-007.md)
 - [System Context Diagram](c4-system-context.md)
-- Component Diagram - API
+- [Component Diagram - API](c4-api-component-diagram.md)
