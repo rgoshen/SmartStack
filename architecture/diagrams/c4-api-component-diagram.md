@@ -169,5 +169,4 @@ graph TB
 
 - [ADR-009: API Design](../ADRs/ADR-009.md)
 - [Container Diagram](./c4-container-diagram.md)
-- API Specification (Swagger)
-- Component Diagram - AI Service
+- [Component Diagram - AI Service](./c4-ai-service-component-diagram.md)
