@@ -128,5 +128,3 @@ graph TB
 
 - [ADR-005: AI Integration Architecture](../ADRs/ADR-005.md)
 - [Container Diagram](./c4-container-diagram.md)
-- Task Processing Flow
-- Prompt Template Guide
