@@ -96,4 +96,4 @@ graph TB
 - [ADR-005: AI Integration Architecture](../ADRs/ADR-005.md)
 - [ADR-006: Data Storage Architecture](../ADRs/ADR-006.md)
 - [ADR-008: Authentication & Authorization](../ADRs/ADR-008.md)
-- Container Diagram
+- [Container Diagram](c4-container-diagram.md)
