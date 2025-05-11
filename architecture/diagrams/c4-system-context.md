@@ -5,7 +5,7 @@
 **Scope**: SmartStack and its external dependencies
 **Primary Elements**: Users, SmartStack system, and external integrations
 **Intended Audience**: All stakeholders (technical and business)
-**Last Updated**: 2025-01-12
+**Last Updated**: 2025-05-11
 
 ## Purpose
 

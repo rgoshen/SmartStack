@@ -5,7 +5,7 @@
 **Scope**: How SmartStack is deployed to AWS infrastructure
 **Primary Elements**: AWS services, deployment nodes, and container instances
 **Intended Audience**: DevOps engineers, infrastructure team, developers
-**Last Updated**: 2025-01-12
+**Last Updated**: 2025-05-11
 
 ## Purpose
 

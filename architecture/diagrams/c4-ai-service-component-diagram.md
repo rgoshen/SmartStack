@@ -5,7 +5,7 @@
 **Scope**: Internal structure of the AI Service container
 **Primary Elements**: Components within the AI Service for processing AI requests
 **Intended Audience**: Developers, AI/ML engineers
-**Last Updated**: 2025-01-12
+**Last Updated**: 2025-05-11
 
 ## Purpose
 

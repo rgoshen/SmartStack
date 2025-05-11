@@ -5,7 +5,7 @@
 **Scope**: The SmartStack system internals
 **Primary Elements**: Applications, databases, and services within SmartStack
 **Intended Audience**: Technical stakeholders, developers, DevOps
-**Last Updated**: 2025-01-12
+**Last Updated**: 2025-05-11
 
 ## Purpose
 

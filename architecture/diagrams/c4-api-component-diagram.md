@@ -5,7 +5,7 @@
 **Scope**: Internal structure of the API Application container
 **Primary Elements**: Components, controllers, services, and modules within the API
 **Intended Audience**: Developers, technical architects
-**Last Updated**: 2025-01-12
+**Last Updated**: 2025-05-11
 
 ## Purpose
 
